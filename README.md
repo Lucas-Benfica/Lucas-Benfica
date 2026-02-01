@@ -40,6 +40,7 @@ What began with a simple course on the C language has evolved into a great adven
 - PrismaORM, Nest.js
 - Jest, Supertest
 - Java
+- Go
 
 #### Methodologies and Tools
 
